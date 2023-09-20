@@ -1,0 +1,5 @@
+- caminho não esta colocando dentro da pasta ok
+- erro no excel
+- replicar destino de email nos campo em que tem mais de uma foto por email, campos esses vazios
+
+-colocar entrada de email
